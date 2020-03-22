@@ -1,0 +1,16 @@
+# For installing yfinance
+wheel
+
+# Jupyter and stuff
+jupyter
+jupyterlab
+ipywidgets
+numpy
+pandas
+lxml
+matplotlib
+fonttools
+
+# Data
+yfinance
+yahoofinancials
