@@ -14,3 +14,7 @@ fonttools
 # Data
 yfinance
 yahoofinancials
+
+# Others
+pylint
+autopep8
